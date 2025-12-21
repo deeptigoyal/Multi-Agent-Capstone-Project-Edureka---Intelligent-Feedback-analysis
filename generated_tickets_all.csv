@@ -1,0 +1,67 @@
+source_id,source_type,raw_text,predicted_category,confidence,priority,ticket_title,ticket_description,technical_details,feature_details,metadata
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,"High (The application crashes when trying to open the task list, indicating a critical issue affecting the user's ability to use the application.)",[BUG] - Device type: Mobile device (smartphone or tablet) - Issue,"Category: Bug
+Priority: High (The application crashes when trying to open the task list, indicating a critical issue affecting the user's ability to use the application.)
+Device Info: - Device type: Mobile device (smartphone or tablet)
+OS Version: - OS type: Not specified (e.g., Android, iOS)
+Steps to Reproduce: 1. Open the latest version of the application.
+","{'device_info': '- Device type: Mobile device (smartphone or tablet)', 'os_version': '- OS type: Not specified (e.g., Android, iOS)', 'steps_to_reproduce': '1. Open the latest version of the application.'}",,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,1.0,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,1.0,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",,,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",,,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",,,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",,,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",,,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.95,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",,,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",,,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",,{}
+E001,email,"App Crash Report. Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",Bug,,Critical,[BUG] Device: Samsung Galaxy S21 - Issue,"Category: Bug
+Priority: Critical
+Device Info: Device: Samsung Galaxy S21
+OS Version: OS Version: Android 14
+Steps to Reproduce: 1. Open app
+","{'device_info': 'Device: Samsung Galaxy S21', 'os_version': 'OS Version: Android 14', 'steps_to_reproduce': '1. Open app'}",,{}
+E002,email,"Login Issue. Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",Complaint,,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",,,{}
+E005,email,"Data Loss Problem. Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",Complaint,,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",,,{}
+E006,email,"General Feedback. Love the app so far, works smoothly for my daily planning.",Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",,,{}
+E007,email,"App Crash Report. App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",Bug,0.9,** ,[BUG] **  - Issue,"Category: Bug
+Priority: ** 
+Device Info: ** 
+OS Version: ** 
+Steps to Reproduce: ** 
+","{'device_info': '** ', 'os_version': '** ', 'steps_to_reproduce': '** '}",,{}

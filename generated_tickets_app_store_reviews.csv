@@ -1,0 +1,40 @@
+source_id,source_type,raw_text,predicted_category,confidence,priority,ticket_title,ticket_description,technical_details,feature_details,metadata
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,0.9,"High (The application crashes when trying to open the task list, indicating a critical issue affecting the user's ability to use the application.)",[BUG] - Device type: Mobile device (smartphone or tablet) - Issue,"Category: Bug
+Priority: High (The application crashes when trying to open the task list, indicating a critical issue affecting the user's ability to use the application.)
+Device Info: - Device type: Mobile device (smartphone or tablet)
+OS Version: - OS type: Not specified (e.g., Android, iOS)
+Steps to Reproduce: 1. Open the latest version of the application.
+","{'device_info': '- Device type: Mobile device (smartphone or tablet)', 'os_version': '- OS type: Not specified (e.g., Android, iOS)', 'steps_to_reproduce': '1. Open the latest version of the application.'}",None,{}
+R001,review,App crashes when I try to open my task list after the latest update.,Bug,1.0,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R002,review,Can't login since update. Keeps showing an error on iOS 17.,Bug,,Critical,[BUG]  - Issue,"Category: Bug
+Priority: Critical
+Device Info: 
+OS Version: 
+Steps to Reproduce: 
+","{'device_info': '', 'os_version': '', 'steps_to_reproduce': ''}",None,{}
+R003,review,Data sync not working between my phone and tablet.,Complaint,1.0,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R006,review,Amazing app! Love the new reminder feature.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R007,review,Works perfectly for daily planning. Great experience overall.,Praise,0.9,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}
+R008,review,App is very slow and takes too long to load tasks.,Complaint,0.8,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R009,review,Too expensive for basic features. Not worth the price.,Complaint,0.8,Medium,[COMPLAINT] Feedback,"Category: Complaint
+Priority: Medium
+",None,None,{}
+R010,review,Poor customer service. No response to my emails.,Complaint,0.95,High,[COMPLAINT] Feedback,"Category: Complaint
+Priority: High
+",None,None,{}
+R011,review,Love the clean UI and simple design. Works perfectly!,Praise,1.0,Low,[PRAISE] Feedback,"Category: Praise
+Priority: Low
+",None,None,{}

@@ -1,0 +1,15 @@
+review_id,platform,rating,review_text,user_name,date,app_version
+R001,Google Play,1,App crashes when I try to open my task list after the latest update.,Rahul,2024-07-01,3.0.1
+R002,App Store,2,Can't login since update. Keeps showing an error on iOS 17.,Ananya,2024-07-02,3.0.1
+R003,Google Play,2,Data sync not working between my phone and tablet.,Vikram,2024-07-03,2.9.8
+R004,App Store,4,Please add a dark mode. Would be very helpful at night.,Sneha,2024-07-04,3.0.0
+R005,Google Play,3,Would love to see calendar integration in future updates.,Amit,2024-07-05,2.8.5
+R006,App Store,5,Amazing app! Love the new reminder feature.,Priya,2024-07-06,3.0.1
+R007,Google Play,4,Works perfectly for daily planning. Great experience overall.,Karan,2024-07-06,2.9.9
+R008,App Store,2,App is very slow and takes too long to load tasks.,Neha,2024-07-07,3.0.1
+R009,Google Play,1,Too expensive for basic features. Not worth the price.,Suresh,2024-07-08,2.7.4
+R010,App Store,1,Poor customer service. No response to my emails.,Meera,2024-07-08,3.0.0
+R011,Google Play,5,Love the clean UI and simple design. Works perfectly!,Rohit,2024-07-09,3.0.1
+R012,App Store,3,Missing functionality like recurring task templates.,Pooja,2024-07-10,2.9.6
+R013,Google Play,1,asdfghjkl qwerty uiop 123456,Unknown,2024-07-11,2.5.0
+R014,App Store,1,Visit www.bestappsfree.com for amazing deals!!!,PromoUser,2024-07-11,3.0.1

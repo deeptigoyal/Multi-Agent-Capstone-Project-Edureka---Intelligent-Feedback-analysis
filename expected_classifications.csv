@@ -1,0 +1,24 @@
+source_id,source_type,category,priority,technical_details,suggested_title
+R001,review,Bug,Critical,Crashes on opening task list after update,App crashes when opening task list
+R002,review,Bug,High,Login failure on iOS 17 after update,Unable to login after iOS update
+R003,review,Bug,High,Data sync issue across devices,Data sync not working across devices
+R004,review,Feature Request,Medium,Request for dark mode,Add dark mode support
+R005,review,Feature Request,Medium,Calendar integration request,Add calendar integration
+R006,review,Praise,Low,Positive feedback on reminder feature,Users love new reminder feature
+R007,review,Praise,Low,Positive feedback on usability,App works perfectly for daily planning
+R008,review,Complaint,Medium,Performance issue – slow loading,App performance is slow
+R009,review,Complaint,Medium,Pricing complaint,App pricing perceived as expensive
+R010,review,Complaint,Medium,Customer support complaint,Poor customer service experience
+R011,review,Praise,Low,Positive feedback on UI,Clean UI and great design
+R012,review,Feature Request,Medium,Recurring task templates requested,Add recurring task templates
+R013,review,Spam,Low,"Random characters, no actionable content",Spam or meaningless review
+R014,review,Spam,Low,Promotional content,Promotional spam review
+E001,email,Bug,Critical,Crash on Samsung Galaxy S21 Android 14,Crash when adding task on Android
+E002,email,Bug,High,Login issue on iPhone 14 iOS 17,Login failure on iOS
+E003,email,Feature Request,Medium,Dark mode feature request,Add dark mode feature
+E004,email,Feature Request,Medium,Calendar integration suggestion,Calendar integration request
+E005,email,Bug,Critical,Data loss after sync on OnePlus 11,Data loss after device sync
+E006,email,Praise,Low,General positive feedback,Positive user feedback
+E007,email,Bug,High,Random crashes on Pixel 7 Android 14,Random crashes while editing tasks
+E008,email,Feature Request,Medium,Recurring tasks feature request,Add recurring tasks feature
+E009,email,Spam,Low,Promotional marketing email,Spam promotional email

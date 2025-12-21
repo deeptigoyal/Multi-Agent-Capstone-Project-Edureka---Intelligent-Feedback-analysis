@@ -1,0 +1,10 @@
+email_id,subject,body,sender_email,timestamp,priority
+E001,App Crash Report,"Dear Team, the app crashes on my Samsung Galaxy S21 running Android 14. Steps: Open app → tap Add Task → crash.",user1@gmail.com,2024-07-01 10:15,High
+E002,Login Issue,"Hi, I cannot login since the last update on my iPhone 14 (iOS 17). Please help.",user2@yahoo.com,01-07-2024 14:30,High
+E003,Feature Request: Dark Mode,"Hello team, I would really appreciate a dark mode option for night usage.",user3@outlook.com,2024/07/02 09:00,
+E004,Suggestion for Improvement,It would be great if you could add calendar integration with Google Calendar.,user4@gmail.com,2024-07-03 18:45,Medium
+E005,Data Loss Problem,"Formal complaint: My tasks disappeared after syncing across devices. Device: OnePlus 11, Android 13.",business.user@company.com,2024-07-04 11:20,High
+E006,General Feedback,"Love the app so far, works smoothly for my daily planning.",happyuser@gmail.com,2024-07-05,Low
+E007,App Crash Report,"App crashes randomly lol. Using Pixel 7, Android 14. Happens when editing tasks.",casualuser@gmail.com,2024-07-06 22:10,
+E008,Feature Request,Please add recurring tasks feature. Very important for productivity.,user5@gmail.com,07-07-2024 08:00,Medium
+E009,Spam Inquiry,Check out our marketing services at www.promosite.com,promo@spam.com,2024-07-07 12:00,Low
